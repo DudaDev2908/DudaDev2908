@@ -42,7 +42,7 @@ Sempre aberta a **novas oportunidades**, **colaborações** e **aprendizado cont
 
 📍 **Rio Grande do Sul - Brasil**  
 💬 **Aberta para networking e projetos colaborativos!**  
-🌐 *www.linkedin.com/in/eduarda-vais-baum-54981b366
+🌐 **www.linkedin.com/in/eduarda-vais-baum-54981b366**
 
 ---
 
