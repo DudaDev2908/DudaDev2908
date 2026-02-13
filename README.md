@@ -1,56 +1,29 @@
+# Olá, eu sou Eduarda Vais Baum 👋
 
+💻 Formada em Desenvolvimento Web pela Rede Calábria.
 
-# 🌸 Olá, eu sou a Eduarda! 👋  
+## 🚀 Sobre mim
+Sou desenvolvedora web com formação completa pela Rede Calábria, com conhecimentos sólidos em desenvolvimento front-end e back-end.
 
-Sou uma desenvolvedora em formação apaixonada por **tecnologia**, **design** e **criação de interfaces interativas**!  
-Tenho **18 anos**, estudo na **Rede Calábria**, e atualmente estou aprendendo:  
+## 🛠️ Tecnologias e Ferramentas
 
-💻 **HTML5 | CSS3 | JavaScript | PHP**  
+- HTML5  
+- CSS3  
+- JavaScript  
+- PHP  
+- MySQL  
+- React.js  
+- Node.js  
+- Next.js  
+- Git  
+- GitHub  
 
----
+## 📚 Atualmente
+Buscando aprimorar minhas habilidades e desenvolver projetos práticos para expandir meu portfólio e experiência profissional.
 
-## 🚀 Sobre mim  
-
-✨ Busco evoluir constantemente nos **estudos** e no **ambiente de trabalho**, aprimorando minhas habilidades para criar projetos cada vez mais criativos e funcionais.  
-🌱 Estou me aprofundando em **desenvolvimento web** e pretendo expandir meus conhecimentos em **front-end e back-end**.  
-🎨 Tenho grande interesse em **interfaces animadas e experiências de usuário** (UX/UI).  
-
----
-
-## 🛠️ Tecnologias que utilizo  
-
-<div align="center">
-
-| Front-end | Back-end | Outros |
-|:----------:|:---------:|:-------:|
-| 🧠 HTML5 | 🐘 PHP | ⚙️ Git / GitHub |
-| 🎨 CSS3 |  | 🖥️ VS Code |
-| ⚡ JavaScript |  | 🌐 Foco em Web |
-
-</div>
+## 📫 Contato
+- Email: eduardavaisbaum66@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/eduarda-vais-baum-54981b366/
 
 ---
-
-## 💼 Objetivo  
-
-Construir uma carreira sólida como **desenvolvedora web**, contribuindo com projetos que unam **criatividade, acessibilidade e inovação**.  
-Sempre aberta a **novas oportunidades**, **colaborações** e **aprendizado contínuo** 💪  
-
----
-
-## 📫 Como me encontrar  
-
-📍 **Rio Grande do Sul - Brasil**  
-💬 **Aberta para networking e projetos colaborativos!**  
-🌐 **www.linkedin.com/in/eduarda-vais-baum-54981b366**
-
----
-
-## 💖 Uma frase que me inspira  
-
-> “A persistência é o caminho do êxito.” — Charles Chaplin  
-
----
-
-⭐ Obrigada por visitar meu perfil!  
-Se gostar dos meus projetos, não esqueça de deixar uma **estrela ⭐**! 😄
+⭐ Sempre em busca de novos desafios e oportunidades na área de tecnologia.
