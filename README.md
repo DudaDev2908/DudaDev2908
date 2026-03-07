@@ -13,6 +13,7 @@ Sou desenvolvedora web com formação completa pela Rede Calábria, com conhecim
 - PHP  
 - MySQL  
 - React.js  
+- React Native
 - Node.js  
 - Next.js  
 - Git  
