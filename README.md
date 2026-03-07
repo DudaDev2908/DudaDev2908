@@ -17,6 +17,7 @@ Sou desenvolvedora web com formação completa pela Rede Calábria, com conhecim
 - Next.js  
 - Git  
 - GitHub  
+- TypeScript
 
 ## 📚 Atualmente
 Buscando aprimorar minhas habilidades e desenvolver projetos práticos para expandir meu portfólio e experiência profissional.
