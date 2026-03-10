@@ -1,11 +1,11 @@
-# Olá, eu sou Eduarda Vais Baum 👋
+# Olá, eu sou Eduarda Vais Baum 
 
-💻 Formada em Desenvolvimento Web pela Rede Calábria.
+ Formada em Desenvolvimento Web pela Rede Calábria.
 
-## 🚀 Sobre mim
+##  Sobre mim
 Sou desenvolvedora web com formação completa pela Rede Calábria, com conhecimentos sólidos em desenvolvimento front-end e back-end.
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 - HTML5  
 - CSS3  
@@ -22,12 +22,12 @@ Sou desenvolvedora web com formação completa pela Rede Calábria, com conhecim
 - Flutter
 - Angular
 
-## 📚 Atualmente
+##  Atualmente
 Buscando aprimorar minhas habilidades e desenvolver projetos práticos para expandir meu portfólio e experiência profissional.
 
-## 📫 Contato
+##  Contato
 - Email: eduardavaisbaum66@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/eduarda-vais-baum-54981b366/
 
 ---
-⭐ Sempre em busca de novos desafios e oportunidades na área de tecnologia.
+ Sempre em busca de novos desafios e oportunidades na área de tecnologia.
