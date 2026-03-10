@@ -19,6 +19,8 @@ Sou desenvolvedora web com formação completa pela Rede Calábria, com conhecim
 - Git  
 - GitHub  
 - TypeScript
+- Flutter
+- Angular
 
 ## 📚 Atualmente
 Buscando aprimorar minhas habilidades e desenvolver projetos práticos para expandir meu portfólio e experiência profissional.
